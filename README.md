@@ -1,4 +1,4 @@
-## shunting
+## shunting program
 This program is a comprehensive mathematical tool that can perform various numerical methods and calculus operations. The core functionality of the calculator is based on the Shunting Yard algorithm, which is used to parse mathematical expressions and convert them into Reverse Polish Notation (RPN). This README file will explain the code, its functions, and the concept behind shunting.
 
 The program is designed to provide various numerical methods and calculus operations, including:
