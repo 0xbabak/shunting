@@ -29,8 +29,11 @@ The Shunting Yard algorithm, developed by Edsger Dijkstra, is used to parse math
 ## Usage
 To use the program, compile the code and run the executable. You will be greeted with a menu to choose from various numerical methods and operations. Follow the prompts to input your expressions and parameters.
 
-<br/>
-'''gcc -o math_calculator main.c'''
-<br/>
-'''./math_calculator'''
-<br/>
+
+```
+gcc -o math_calculator main.c
+```
+```
+./math_calculator
+```
+
